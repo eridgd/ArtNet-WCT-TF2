@@ -1,2 +1,5 @@
-# ArtNet-WCT-TF2
-TensorFlow 2.0 implementation of "Fast Universal Style Transfer for Artistic and Photorealistic Rendering" from https://arxiv.org/abs/1907.03118
+# Fast Universal Style Transfer for Artistic and Photorealistic Rendering with TensorFlow 2.0
+
+<p align='center'>
+  <img src='samples/abstractions_header_22.gif'>
+</p>
